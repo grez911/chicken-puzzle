@@ -2,7 +2,7 @@
 
 > In a barn, 100 chicks sit peacefully in a circle. Suddenly, each chick randomly pecks the chick immediately to its left or right. What is the expected number of unpecked chicks?
 
-When I first heard this problem I thought this way: "The maximum number of pecked chickens is 100 (in case each chicken pecks his left neighbour) and the minimum is 50 (if they pecks each other in pairs). So the avarage number of pecked chickens is in the middle -- 75, and 25 unpecked chikens is expected".
+When I first heard this problem I thought this way: "The maximum number of pecked chickens is 100 (in case each chicken pecks his left neighbour) and the minimum is 50 (if they pecks each other in pairs). So the average number of pecked chickens is in the middle -- 75, and 25 unpecked chikens is expected".
 
 But let's prove it. How? By running 100000 rounds of simulation, of course!
 
