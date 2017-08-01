@@ -11,4 +11,4 @@ for i in range(0, ROUNDS):
     overal_unpecked += c.result()
 
 print("Number of rounds: %d" % ROUNDS)
-print("Avarage of unpecked: %.5f" % (overal_unpecked / ROUNDS))
+print("Average of unpecked: %.5f" % (overal_unpecked / ROUNDS))
